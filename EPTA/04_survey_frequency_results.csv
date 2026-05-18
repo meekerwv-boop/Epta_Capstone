@@ -1,0 +1,29 @@
+question,response,count,pct,respondent_pct
+Q1 Student type,Commuter,172,38.65,
+Q1 Student type,Residential,267,60.0,
+Q1 Student type,Other,6,1.35,
+Q2 Ride frequency,Multiple times/day,177,39.78,
+Q2 Ride frequency,Daily,78,17.53,
+Q2 Ride frequency,Weekly,59,13.26,
+Q2 Ride frequency,Monthly,9,2.02,
+Q2 Ride frequency,Once in awhile,44,9.89,
+Q2 Ride frequency,Never,78,17.53,
+Q3 Reasons for riding,To get to class,338,,93.89
+Q3 Reasons for riding,Rams Den,255,,70.83
+Q3 Reasons for riding,Parking issues,202,,56.11
+Q3 Reasons for riding,Group meetings,142,,39.44
+Q3 Reasons for riding,Personal safety,120,,33.33
+Q3 Reasons for riding,Wellness Center,103,,28.61
+Q3 Reasons for riding,Injury,68,,18.89
+Q3 Reasons for riding,Accessibility,65,,18.06
+Q6 Importance,Extremely important,313,74.52,
+Q6 Importance,Very important,52,12.38,
+Q6 Importance,Slightly important,34,8.1,
+Q6 Importance,Not at all,21,5.0,
+Q7 Critical time slots,7:30am-12pm,321,,76.43
+Q7 Critical time slots,12pm-4pm,313,,74.52
+Q7 Critical time slots,4pm-7pm,192,,45.71
+Q7 Critical time slots,7pm-9pm,110,,26.19
+Q7 Critical time slots,Not important,52,,12.38
+Q8 Fee support,Yes,182,43.33,
+Q8 Fee support,No,238,56.67,
